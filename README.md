@@ -51,7 +51,7 @@ To run the project locally:
 
 1. Clone the repository: git clone https://github.com/Ragul0201/Password-Reset-Frontend/edit/password/README.md
 Back End code :
-https://github.com/Vijayarajvijay/Password-Reset-BE
+https://github.com/Ragul0201/Password-Reset-Backend
 
 2. Navigate to the project directory and install 
 dependencies: npm install
